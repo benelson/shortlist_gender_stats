@@ -4,4 +4,4 @@ A list of shortlisted candidates from the Astorbetter Rumor Mill. So far, I've o
 
 I hastily put this together just by Googling people and finding their gender + year of Ph.D. I can't guarantee that no mistakes or typos were made. So, I encourage you to fork and update/modify this list!
 
-There's also an iPython Notebook how I created the plot from [here](https://twitter.com/the_benelson/status/567441424363556864).
+I've also included iPython Notebook showing how I created the plot from [here](https://twitter.com/the_benelson/status/567441424363556864). Pretty remedial at this point, but feel free to add more content and statistics deemed relevant.
